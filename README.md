@@ -1,6 +1,6 @@
 # Cup of Coffee Animation Effect☕
 
-![Conventer](Cup_of_Coffee.gif)
+![Cup](Cup_of_Coffee.gif)
 ### Link 🔗
 https://tomaszbrylski.github.io/Cup-of-Coffee/
 ### Tech 💻
